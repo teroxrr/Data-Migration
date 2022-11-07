@@ -1,4 +1,4 @@
-# Data Migration Challenge
+# Data Migration Project
 
 ## Overview
 This application consists of a simple pipeline to perform a data migration. It takes CSV files with specific schemas as input and inserts the content into hive tables in AVRO format. 
